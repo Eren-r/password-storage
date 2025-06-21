@@ -1,6 +1,11 @@
 🔐 Encrypted User Manager
+
+
 A simple, secure desktop GUI application built using Python, Tkinter, and Cryptography (Fernet) that allows you to register users, encrypt their passwords, view stored credentials (with master password protection), and delete users.
+
+
 🛠 Features
+
 ➕ Register Users with password encryption
 
 🔐 Encrypts passwords using cryptography.fernet
