@@ -17,3 +17,9 @@ A simple, secure desktop GUI application built using Python, Tkinter, and Crypto
 📋 Scrollable view for all stored users
 
 ✅ GUI interface using tkinter for ease of use
+
+for run the code Install Dependencies
+
+pip install cryptography 
+
+pip install pipwin
